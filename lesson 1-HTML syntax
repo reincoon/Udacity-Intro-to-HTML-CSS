@@ -1,2 +1,10 @@
 <p><b>This text should be bold.</b></p>
 <p><em>This text should have emphasis (italics).</em></p>
+<p><strong>This text should be bold.</strong></p>
+
+<!DOCTYPE html>
+<head>
+<title>Title
+</title>
+</head>
+<h1>This is a title</h1>
