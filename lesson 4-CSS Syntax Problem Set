@@ -8,6 +8,9 @@
     <style>
     	.kitten-image {
             /* add CSS here */
+            border: dashed #fa8072;
+            cursor: pointer;
+            box-shadow: 6px 3px 3px darkslategrey;
     	}
     </style>
 </head>
